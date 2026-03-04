@@ -50,6 +50,6 @@
 ## File Pendukung
 - `verifikasi_opencv.py`: Script Python untuk test OpenCV.
 
-Repository ini juga mendukung video presentasi saya di YouTube: [Link YouTube Kamu].
+Repository ini juga mendukung video presentasi saya di YouTube: [https://youtu.be/MSIRqA0yzZc?si=2IqW6mfOeA7SrF18].
 
 Terima kasih!
