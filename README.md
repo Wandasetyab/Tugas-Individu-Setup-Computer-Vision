@@ -4,6 +4,7 @@
 **NIM:** 231001008  
 **Mata Kuliah:** Machine Learning  
 **Tanggal:** 04 Maret 2026 
+
 **Deskripsi:** Repository ini berisi hasil praktik dari video tutorial "#1 Computer Vision | Pengenalan konsep, tool, library & pemrograman"[](https://youtu.be/sdATJ5sBeIs). Saya mempraktikkan setup lingkungan kerja dari nol menggunakan Anaconda, membuat virtual environment, menginstal Python 3.12 dan OpenCV, serta verifikasi hasil. Dokumentasi ini menjelaskan langkah-langkah secara detail, beserta analisis singkat.
 
 ## Langkah-Langkah Praktik
